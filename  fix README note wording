@@ -1,0 +1,12 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9ce7c47..8e66262 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -58,6 +58,6 @@[m [mupdate the json config file :[m
+ [m
+ ```[m
+ [m
+[31m-NOTE : REMOVE CLAUDE FROM TASK MANAGER AND THAN START AGAIN TO SEE UPDATED CHANGES[m
+[32m+[m[32mNOTE : REMOVE CLAUDE FROM TASK MANAGER AND THAN START AGAIN TO SEE UPDATED CHANGE[m
+ [m
+ ```[m
