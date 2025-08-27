@@ -53,3 +53,11 @@ update the json config file :
 
 
 ```
+
+
+
+```
+
+NOTE : REMOVE CLAUDE FROM TASK MANAGER AND THAN START AGAIN TO SEE UPDATED CHANGES
+
+```
