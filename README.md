@@ -1,6 +1,6 @@
 # mcp-server
 
-
+```
 
 uv venv
 source .venv/Scripts/activate
@@ -49,3 +49,7 @@ update the json config file :
     }
   }
 }
+
+
+
+```
